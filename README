@@ -1,0 +1,80 @@
+Unicode::Unihan
+===============
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires perl 5.6 or better.
+
+NAME
+       Unicode::Unihan - The Unihan Data Base 3.2
+
+SYNOPSIS
+         use Unicode::Unihan;
+         my $db = new Unicode::Unihan;
+         print join("," => $db->Mandarin("\x{5c0f}\x{98fc}\x{5f3e}"), "\n";
+
+ABSTRACT
+       This module provides a user-friendly interface to the Uni-
+       code Unihan Database 3.2.  With this module, the Unihan
+       database is as easy as shown in the SYNOPSIS above.
+
+DESCRIPTION
+       The first thing you do is make the database available.
+       Just say
+
+         use Unicode::Unihan;
+         my $db = new Unicode::Unihan;
+
+       That's all you have to say.  After that, you can access
+       the database via $db->tag($string) where tag is the tag in
+       the Unihan Database, without 'k' prefix.
+
+       $data = $db->tag($string) =item @data = $db->tag($string)
+           The first form (scalar context) returns the Unihan
+           Database entry of the first character in $string.  The
+           second form (array context) checks the entry for each
+           character in $string.
+
+             @data = $db->Mandarin("\x{5c0f}\x{98fc}\x{5f3e}");
+             # @data is now ('SHAO4 XIAO3','SI4','DAN4')
+
+             @data = $db->JapaneseKun("\x{5c0f}\x{98fc}\x{5f3e}");
+             # @data is now ('CHIISAI KO O','KAU YASHINAU','TAMA HAZUMU HIKU')
+
+SEE ALSO
+       the perlunintro manpage
+       the perlunicode manpage
+       The Unihand Database, in Text
+         http://www.unicode.org/Public/3.2-Update/Uni-
+         han-3.2.0.txt.gz
+
+AUTHOR
+       For the Module: Dan Kogai <dankogai@home.dan.intra>
+
+       For the Source Data: Unicode, Inc.
+
+COPYRIGHT AND LICENSE
+       For the Module:
+        Copyright 2002 by Dan Kogai, All rights reserved.
+
+       This library is free software; you can redistribute it
+       and/or modify it under the same terms as Perl itself.
+
+       For the Source Data:
+
+       Copyright (c) 1996-2002 Unicode, Inc. All Rights reserved.
+
+        Name: Unihan database
+        Unicode version: 3.2.0
+        Table version: 1.1
+        Date: 15 March 2002
+

@@ -1,5 +1,5 @@
 #
-# $Id: 0-useme.t,v 0.1 2002/04/26 07:43:26 dankogai Exp dankogai $
+# $Id$
 #
 
 use strict;

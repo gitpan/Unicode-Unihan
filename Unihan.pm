@@ -4,7 +4,7 @@ use 5.006;
 use strict;
 use warnings;
 
-our $VERSION = do { my @r = (q$Revision: 0.2 $ =~ /\d+/g); sprintf "%d."."%02d" x $#r, @r };
+our ( $VERSION ) = (q$Revision: 0.01 $ =~ /([\d\.]+)/o);
 our $DEBUG = 0;
 
 use Carp;

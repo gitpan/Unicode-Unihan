@@ -1,5 +1,5 @@
 #
-# $Id: 1-autoload.t,v 1.1 2002/04/26 07:42:51 dankogai Exp dankogai $
+# $Id$
 #
 
 use strict;

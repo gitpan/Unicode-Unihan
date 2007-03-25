@@ -1,9 +1,12 @@
 #
-# $Id$
+# $Id: Changes,v 0.3 2007/03/25 23:18:53 dankogai Exp dankogai $
 #
-Revision history for Perl extension Unicode::UnihanDB.
+# Revision history for Perl extension Unicode::UnihanDB.
+$Revision: 0.3 $ $Date: 2007/03/25 23:18:53 $
+! *
+  Now based upon Unihan 5.0.0
 
-$Revision$ $Date$
+0.2 2007/03/25 21:39:11
 
 First version to be CPANized.
 

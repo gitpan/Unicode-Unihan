@@ -5,6 +5,7 @@ my %FH;
 #U+3400  kCantonese      JAAU1 KAAU5
 my $olduni;
 while(<>){
+    next if /^#/;
     chomp;
     my ($uni, $key, $value) = m/^U\+([0-9A-Za-z]+)\s+k(\w+)\s(.*)/o;
     $key ||= "COMMENT";

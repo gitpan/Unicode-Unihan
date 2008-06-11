@@ -4,7 +4,9 @@ Makefile.PL
 NOTES
 README
 Unihan.pm
-bin/splitdb.pl
+util/splitdb.pl
+t/0-useme.t
+t/1-autoload.t
 srctxt/AccountingNumeric.txt
 srctxt/BigFive.txt
 srctxt/CCCII.txt
@@ -90,8 +92,7 @@ srctxt/Tang.txt
 srctxt/TotalStrokes.txt
 srctxt/TraditionalVariant.txt
 srctxt/Vietnamese.txt
+srctxt/XHC1983.txt
 srctxt/Xerox.txt
 srctxt/ZVariant.txt
-t/0-useme.t
-t/1-autoload.t
 META.yml                                 Module meta-data (added by MakeMaker)

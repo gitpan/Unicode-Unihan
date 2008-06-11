@@ -28,7 +28,7 @@
 343B	name of a person
 343C	(corrupted form of 拯)to save; to lift up
 343D	(simplified form of 偑) name of a place, last name
-3441	(same as U+20B74 𠭴) short; of short staturee
+3441	(same as U+20B74 𠭴) short; of short stature
 3442	(same as 仿) to imitate, like; resembling, according to
 3443	(same as 拗) to pull; to drag, to break off, to pluck, as a flower
 3444	(ancient form of 侮) to insult, to ridicule
@@ -2911,7 +2911,7 @@
 40FA	(a standard form of 磨) to grind, to rub, to sharpen
 40FB	(same as 壩) an embankment; a dike; a levee; a dam; a bank of earth
 40FD	name of a mountain (of warship), (same as 禔) happiness; good fortune; good luck; blessing, (same as standard form 祓) to exorcise; to remove evil; to cleanse; to clean; to wash away
-40FE	to offer small pig as sacrifice when warship god of life
+40FE	to offer a small pig as sacrifice when worshipping the god of life
 40FF	a rite or service, message offered to the gods in worship
 4100	(same as 禍) calamity; disaster; evil; misfortune
 4101	to worship; to honor by a service or rite; to offer sacrifices to
@@ -3862,7 +3862,7 @@
 44DB	molecular formula (C18H12), to brush
 44DC	salted or pickled vegetables
 44DD	Chinese pennisetum) Pennisetum alopecuroides)
-44DE	a kind of plant, can be used as dyestuff, material for making paper and coir raincoat, edible, Chinese pennisetum)Pennisetum alopecuroides)
+44DE	a kind of plant, can be used as dyestuff, material for making paper and coir raincoat, edible, Chinese pennisetum, Pennisetum alopecuroides
 44DF	name of a variety of grass, (same as 茢) a broom
 44E0	the water plantain, the lotus floating on the water
 44E1	a medical herb ( 知母)
@@ -6287,7 +6287,7 @@
 4F36	lonely, solitary; actor
 4F37	descendent
 4F38	extend, stretch out, open up; trust
-4F39	dull, slow, unskilful
+4F39	dull, slow, unskillful
 4F3A	serve, wait upon, attend; examine
 4F3B	messenger, emissary; send emissary
 4F3C	resemble, similar to; as if, seem
@@ -7206,7 +7206,7 @@
 540B	English inch (unlike U+5BF8 寸, which can be either the English or the Chinese inch)
 540C	same, similar; together with
 540D	name, rank, title, position
-540E	queen, empress, sovereign
+540E	queen, empress, sovereign; (simp. for 後) behind, rear, after
 540F	government official, magistrate
 5410	vomit, spew out, cough up
 5411	toward, direction, trend
@@ -7884,7 +7884,7 @@
 57A4	ant-hill, small mound; hill
 57A6	cultivate, reclaim, to farm land
 57A7	variable unit of land measure
-57A9	holy, sacred, sage; simplification of Ü white earth; daub with white mud
+57A9	holy, sacred, sage; simplification of 堊 chalk; daub with chalk
 57AB	advance money, pay for another
 57AD	character used in place names
 57AE	be defeated, fail, collapse
@@ -11274,7 +11274,7 @@
 6C30	cyanogen; ethane dinitrile
 6C32	life giving influences of nature; spirit of harmony; prosperity
 6C33	life giving influences of nature; spirit of harmony; prosperity
-6C34	water, liquid, lot5on, juice
+6C34	water, liquid, lotion, juice
 6C35	water; radical number 85
 6C37	ice, frost, icicles; cold
 6C38	long, perpetual, eternal, forever
@@ -19675,7 +19675,7 @@
 9F0E	large, three-legged bronze caldron
 9F0F	cover of tripod caldron
 9F10	incense tripod
-9F12	large tripod caldron with small
+9F12	large tripod caldron with small mouth
 9F13	drum; beat, top, strike
 9F14	a drum; to drum, from whence comes: to rouse; to swell; to bulge
 9F15	rattle of drums
@@ -19775,6 +19775,7 @@
 9FA2	in harmony; calm, peaceful
 9FA4	to harmonize; to accord with; to agree
 9FA5	beg, appeal for help
+9FC3	(same as U+7752 睒) to blink, twinkle
 F900	how? what?
 F901	more, still further, much more
 F902	cart, vehicle; carry in cart

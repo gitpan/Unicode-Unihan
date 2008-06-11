@@ -769,7 +769,7 @@
 5BFA	*ziə̀
 5C01	biong
 5C04	*jhià ià jhiɛk
-5C07	*tziɑng *tziɑ̀ng t
+5C07	*tziɑng *tziɑ̀ng
 5C08	jiuɛn
 5C09	qiuə̀i
 5C0A	*tzuən
